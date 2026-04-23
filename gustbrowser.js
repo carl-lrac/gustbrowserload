@@ -11,7 +11,7 @@
 	<link rel="prerender" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-	<script src="https://cdn.jsdelivr.net/npm/iso-639-1@2.1.11/build/index.js" defer
+	<script src="https://cdn.jsdelivr.net/gh/carl-lrac/gustbrowserload@main/build.index.js" defer
         onload="window._iso639Ready=true;"
     	onerror="console.warn('iso-639-1 failed to load');"
 	></script>
@@ -4895,7 +4895,7 @@
     	</main>
 	</div>
  
-	<script src="https://cdn.jsdelivr.net/npm/libcurl.js@latest/libcurl_full.js" defer
+	<script src="https://cdn.jsdelivr.net/gh/carl-lrac/gustbrowserload@main/libfurl_full.js" defer
         onload="window._libcurlReady=true;"
     	onerror="console.warn('libcurl.js failed to load — network requests may fall back to fetch.');"
 	></script>
